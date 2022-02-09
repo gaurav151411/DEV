@@ -72,6 +72,7 @@ console.log(num);
 // therefore,we can't re-declare a variable using let, but not re-initialise it
 
 // loops in js
+// .
 var num=10;
 for(var i=1;i<=num;i++){
     if(i%2==0)
